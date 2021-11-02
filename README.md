@@ -1,0 +1,2 @@
+# algorithmic-thinking
+exercises
